@@ -1,4 +1,5 @@
 # Responsive Coffee Shop Website Design
-### This design is inspired by the work of [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). Click [here](https://youtu.be/52sKmRsk7xU) to watch the video.
+This website is a dynamic online platform designed for a coffee shop. It features an intuitive user interface allowing customers to browse the menu, and make reservations seamlessly. With responsive design, the website ensures optimal viewing experience across various devices. Explore our coffee selections and services effortlessly with this user-friendly website!
 
+http://delisco.in/
 ![preview img](/preview.png)

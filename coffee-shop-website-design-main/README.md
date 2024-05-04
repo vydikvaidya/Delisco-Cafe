@@ -3,4 +3,3 @@ This website is a dynamic online platform designed for a coffee shop. It feature
 
 http://delisco.in/
 
-![preview img](/delisco.png)
